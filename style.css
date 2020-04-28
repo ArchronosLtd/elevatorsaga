@@ -1,7 +1,5 @@
-
-
 html, body {
-    background-color: #BFBD9F;
+    background-color: #3a3a3c;
     color: white;
     margin: 0;
     padding: 0;
@@ -16,11 +14,11 @@ h1, h2, h3, h4, h5 {
 }
 
 h1, h2, h3, h4, h5, p {
-    color: #555;
+    color: #fff;
 }
 
 .emphasis-color {
-    color: #F1F2D8;
+    color: #ffed64;
     text-shadow: 0 2px 0.4pt #555;
 }
 
@@ -29,7 +27,7 @@ h1, h2, h3, h4, h5, p {
 }
 
 a {
-    color: #444;
+    color: #04aeef;
     font-weight: bold;
     text-decoration: none;
 }
@@ -42,7 +40,7 @@ h2, h3, h4, h5 {
 }
 
 dl {
-    color: #555;
+    color: #fff;
 }
 dl dd {
     font: 15px Arial, Helvetica, sans-serif;
@@ -56,7 +54,7 @@ dl dd {
     width: 1220px;
     margin: 0 auto;
     padding: 20px 0 40px 0;
-    background-color: #BFBD9F;
+    background-color: #3a3a3c;
 }
 
 .unselectable {
@@ -75,8 +73,8 @@ button {
     font-weight: bold;
     padding-left: 10px;
     padding-right: 10px;
-    color: #333;
-    background-color: #777;
+    color: #fff;
+    background-color: #04aeef;
     text-shadow: 0 0 3px #aaa;
     border: 1px solid #666;
     border-radius: 5px;
@@ -359,7 +357,7 @@ button.right {
 .doctable {
     margin-top: 10px;
     margin-bottom: 20px;
-    color: #555;
+    color: #fff;
     border: none;
 }
 
@@ -370,7 +368,7 @@ button.right {
 
 .doctable tr td:first-child {
     padding-right: 5px;
-    color: #333;
+    color: #fff;
 }
 
 .doctable td {
